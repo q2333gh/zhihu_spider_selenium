@@ -1612,7 +1612,7 @@ def main():
     # crawl_answer = True
     # crawl_links_scratch = True
     # MarkDown_FORMAT = True
-    # python crawler.py --think --MarkDown --links_scratch
+    # python crawler.py --think --MarkDown --links_scratchz
     # python crawler.py --article  --MarkDown --links_scratch
     # python crawler.py --answer  --MarkDown --links_scratch
     # python crawler.py --think --answer --article  --MarkDown --links_scratch
